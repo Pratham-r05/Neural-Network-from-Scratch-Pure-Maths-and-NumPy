@@ -89,7 +89,7 @@ def test_prediction(index, W1, b1, W2, b2):
     plt.show()
 ```
 
-[Example 1 Digit Prediction](/Screenshot(3).png)
+[Example 1 Digit Prediction](/https://github.com/Pratham-r05/Projects_2/blob/main/Screenshot%20(3).png)
 [Example 2 Digit Prediction](/Screenshot(4).png)
 [Example 3 Digit Prediction](/Screenshot(5).png)
 [Example 4 Digit Prediction](/Screenshot(6).png)
