@@ -64,7 +64,10 @@ data = pd.read_csv('train.csv')
   <img src="assets/training_accuracy.gif" alt="Training Accuracy Over Time" width="500"/>
 </p>
 
-*Add a GIF of your training accuracy or loss curve here!*
+## Training Accuracy
+
+![Training Accuracy](images/accuracy.png)
+The plot above shows the training accuracy over epochs.
 
 ---
 
