@@ -66,7 +66,7 @@ data = pd.read_csv('train.csv')
 
 ## Training Accuracy
 
-![Training Accuracy](images/accuracy.png)
+![Training Accuracy](/accuracy.png)
 The plot above shows the training accuracy over epochs.
 
 ---
