@@ -89,7 +89,7 @@ def test_prediction(index, W1, b1, W2, b2):
     plt.show()
 ```
 
-![Example Digit Prediction](assets/example_digit.png)
+![Example Digit Prediction](/output_image)
 
 ---
 
