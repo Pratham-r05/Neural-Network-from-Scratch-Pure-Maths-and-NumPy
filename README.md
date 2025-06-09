@@ -66,17 +66,6 @@ data = pd.read_csv('train.csv')
 
 *Add a GIF of your training accuracy or loss curve here!*
 
-### 5. **Prediction & Visualization**
-- See the neural net’s predictions on handwritten digits:
-
-<p align="center">
-  <img src="assets/sample_prediction_1.png" alt="Sample Prediction 1" width="220"/>
-  <img src="assets/sample_prediction_2.png" alt="Sample Prediction 2" width="220"/>
-  <img src="assets/sample_prediction_3.png" alt="Sample Prediction 3" width="220"/>
-</p>
-
-*Replace with images generated from your notebook outputs!*
-
 ---
 
 ## 🧩 Code Structure
@@ -98,15 +87,6 @@ def test_prediction(index, W1, b1, W2, b2):
 ```
 
 ![Example Digit Prediction](assets/example_digit.png)
-
----
-
-## 🎥 How to Create GIFs and Images
-
-- **Training Progress:**  
-  Use `matplotlib.animation` or screen capture tools to create a GIF of the accuracy curve.
-- **Prediction Examples:**  
-  Save sample outputs using `plt.savefig()`.
 
 ---
 
